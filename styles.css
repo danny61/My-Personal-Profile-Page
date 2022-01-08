@@ -70,6 +70,13 @@ header {
   padding: 60px;
 }
 
+.headthree {
+  background: url('images/mount.jpeg');
+  background-size: cover;
+  overflow: hidden;
+  padding: 60px;
+}
+
 header {
   line-height: 1.5;
 }
